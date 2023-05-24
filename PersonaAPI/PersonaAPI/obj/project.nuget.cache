@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MC7A4DxBM6oNLGodYyKHJvZmT6aEUHLyEx7mGsUR3nl/yZfMgb5csZSc49Y9rR3rQc84DDhLHKRK7TnZu+nxtw==",
+  "dgSpecHash": "Go4C2QpALqqQAtHrk3wCKlCHO3rIi66eLibibfA8LQoVDzGaOe3nAd5FdSz6If6zu2F56yS+AbbMMviNIIfiBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rody\\source\\repos\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj",
+  "projectFilePath": "C:\\Users\\Rody\\Documents\\Cosas Rody\\TNery\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rody\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rody\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

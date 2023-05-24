@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rody\\source\\repos\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj": {}
+    "C:\\Users\\Rody\\Documents\\Cosas Rody\\TNery\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rody\\source\\repos\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj": {
+    "C:\\Users\\Rody\\Documents\\Cosas Rody\\TNery\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rody\\source\\repos\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Rody\\Documents\\Cosas Rody\\TNery\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj",
         "projectName": "PersonaAPI",
-        "projectPath": "C:\\Users\\Rody\\source\\repos\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj",
+        "projectPath": "C:\\Users\\Rody\\Documents\\Cosas Rody\\TNery\\PersonaAPI\\PersonaAPI\\PersonaAPI.csproj",
         "packagesPath": "C:\\Users\\Rody\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rody\\source\\repos\\PersonaAPI\\PersonaAPI\\obj\\",
+        "outputPath": "C:\\Users\\Rody\\Documents\\Cosas Rody\\TNery\\PersonaAPI\\PersonaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
